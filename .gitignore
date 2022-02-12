@@ -1,3 +1,5 @@
 post-storage.csv
 pushover.conf
 .vscode/
+output.log
+.pyc
